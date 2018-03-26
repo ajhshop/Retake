@@ -1,0 +1,9 @@
+<div class="block" style="margin-bottom: 40px;">
+    <div class="block-title"><strong><span>Contact us</span></strong></div>
+    <div class="block-content">
+        <p><b style="color:#fff;">ADDRESS:</b><br/>123 STREET NAME, CITY, ENGLAND</p>
+        <p><b style="color:#fff;">PHONE:</b><br/>(123)456-7890</p>
+        <p><b style="color:#fff;">EMAIL:</b><br/>MAIL@EXAMPLE.COM</p>
+        <p><b style="color:#fff;">WORKING DAYS/HOURS:</b><br/>MON - SUN / 9:00AM - 8:00PM<br/><span style="color: #0f0;">OPEN NOW</span></p>
+    </div>
+</div>

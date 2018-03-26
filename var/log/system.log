@@ -1,0 +1,4 @@
+2018-03-15T06:50:23+00:00 ERR (3): Notice: Undefined variable: thumb_type  in Z:\portotheme.com\magento\quick_start\app\design\frontend\smartwave\porto\template\catalog\product\view\media.phtml on line 44
+2018-03-15T06:51:19+00:00 ERR (3): Notice: Undefined variable: thumb_type  in Z:\portotheme.com\magento\quick_start\app\design\frontend\smartwave\porto\template\catalog\product\view\media.phtml on line 44
+2018-03-15T06:51:43+00:00 ERR (3): Notice: Undefined variable: thumb_type  in Z:\portotheme.com\magento\quick_start\app\design\frontend\smartwave\porto\template\catalog\product\view\media.phtml on line 44
+2018-03-15T06:54:11+00:00 ERR (3): Notice: Undefined variable: thumb_type  in Z:\portotheme.com\magento\quick_start\app\design\frontend\smartwave\porto\template\catalog\product\view\media.phtml on line 44

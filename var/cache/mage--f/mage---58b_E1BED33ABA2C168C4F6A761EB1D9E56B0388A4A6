@@ -1,0 +1,22 @@
+<div class="row">
+    <div class="col-lg-6">
+        <img src="http://127.0.0.1/Retake/media/wysiwyg/porto/homepage/content/20/logo_white_plus.png" style="margin-bottom: 40px;" alt="" />
+    </div>
+    <div class="col-lg-6">
+        <div class="block" style="margin-bottom: 20px;">
+            <div class="block-title"><strong><span>Features</span></strong></div>
+            <div class="block-content">
+                <ul class="links">
+                    <li><a href="#" title="Men">MEN</a></li>
+                    <li><a href="#" title="Women">WOMEN</a></li>
+                    <li><a href="#" title="Boys">BOYS</a></li>
+                    <li><a href="#" title="Girls">GIRLS</a></li>
+                    <li><a href="#" title="New Arrivals">NEW ARRIVALS</a></li>
+                    <li><a href="#" title="Shoes">SHOES</a></li>
+                    <li><a href="#" title="Clothes">CLOTHES</a></li>
+                    <li><a href="#" title="Accessories">ACCESSORIES</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

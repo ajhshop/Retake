@@ -1,0 +1,32 @@
+<div class="row">
+    <div class="col-lg-6">
+        <div class="block" style="margin-bottom: 40px;">
+            <div class="block-title"><strong><span>Follow us</span></strong></div>
+            <div class="block-content">
+                <p><a href="https://www.facebook.com/" title="Facebook" target="_blank"><i class="icon-facebook" style="font-size: 22px;color:#fff;vertical-align: middle;"></i>&nbsp;<span>FACEBOOK</span></a></p>
+                <p><a href="https://twitter.com/" title="Twitter" target="_blank"><i class="icon-twitter" style="font-size: 22px;color:#fff;vertical-align: middle;"></i>&nbsp;<span>TWITTER</span></a></p>
+                <p><a href="https://www.instagram.com/" title="Instagram" target="_blank"><i class="icon-instagram" style="font-size: 22px;color:#fff;vertical-align: middle;"></i>&nbsp;<span>INSTAGRAM</span></a></p>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-6">
+        <div class="block" style="margin-bottom: 20px;">
+            <div class="block-title"><strong><span>Join us</span></strong></div>
+            <div class="block-content">
+                <p>JOIN THE WORLD<br/>OF PORTO ECOMMERCE</p>
+                    <form action="http://127.0.0.1/Retake/index.php/newsletter/subscriber/new/" method="post" id="home-sidebar-newsletter-validate-detail" onsubmit="setNewsletterCookie()">
+        <div class="input-box">
+            <input type="text" name="email" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email" placeholder="Email Address" />
+            <button type="submit" title="Go!" class="button"><span><span>Go!</span></span></button>
+            <div class="clearer"></div>
+        </div>
+    </form>
+    <script type="text/javascript">
+    //<![CDATA[
+        var homeSidebarNewsletterValidateDetail = new VarienForm('home-sidebar-newsletter-validate-detail');
+    //]]>
+    </script>
+            </div>
+        </div>
+    </div>
+</div>

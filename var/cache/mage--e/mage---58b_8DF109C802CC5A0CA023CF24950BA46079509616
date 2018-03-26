@@ -1,0 +1,14 @@
+<div class="block" style="margin-bottom: 40px;">
+    <div class="block-title"><strong><span>Menu</span></strong></div>
+    <div class="block-content">
+        <ul class="links">
+            <li><a href="#" title="About Us">ABOUT US</a></li>
+            <li><a href="#" title="Contact Us">CONTACT US</a></li>
+            <li><a href="#" title="My Account">MY ACCOUNT</a></li>
+            <li><a href="#" title="Orders History">ORDERS HISTORY</a></li>
+            <li><a href="#" title="My Wishlist">MY WISHLIST</a></li>
+            <li><a href="#" title="Blog">BLOG</a></li>
+            <li><a href="#" title="Login">LOGIN</a></li>
+        </ul>
+    </div>
+</div>

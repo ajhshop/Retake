@@ -1,0 +1,56 @@
+<div class="header-wrapper">
+<div class="main-nav">
+    <div class="container">            
+        <div class="menu-wrapper">
+            <div class="menu-all-pages-container">
+                <ul class="menu">
+                    
+<li class="menu-item menu-item-has-children menu-parent-item  " >
+<a href="//127.0.0.1/Retake/index.php/produkter.html">Produkter</a>
+<div class="nav-sublist-dropdown" style="display: none;">
+<div class="container">
+<ul>
+<li class="menu-item  "><a class="level1" data-id="10" href="//127.0.0.1/Retake/index.php/produkter/jersey.html"><span>Jersey</span></a></li><li class="menu-item  "><a class="level1" data-id="11" href="//127.0.0.1/Retake/index.php/produkter/taske.html"><span>Taske</span></a></li><li class="menu-item  "><a class="level1" data-id="12" href="//127.0.0.1/Retake/index.php/produkter/t-shirt.html"><span>T-Shirt</span></a></li><li class="menu-item  "><a class="level1" data-id="13" href="//127.0.0.1/Retake/index.php/produkter/hoodie.html"><span>Hoodie </span></a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item-has-children menu-parent-item  " >
+<a href="//127.0.0.1/Retake/index.php/streamers.html">Streamers</a>
+<div class="nav-sublist-dropdown" style="display: none;">
+<div class="container">
+<ul>
+<li class="menu-item  "><a class="level1" data-id="4" href="//127.0.0.1/Retake/index.php/streamers/kregme.html"><span>Kregme</span></a></li><li class="menu-item  "><a class="level1" data-id="5" href="//127.0.0.1/Retake/index.php/streamers/jern.html"><span>Jern</span></a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class=" ">
+<a href="//127.0.0.1/Retake/index.php/teams.html">Teams</a>
+</li>
+<li class=" ">
+<a href="//127.0.0.1/Retake/index.php/limited-edition.html">Limited Edition</a>
+</li>
+<li class=" ">
+<a href="//127.0.0.1/Retake/index.php/udsalg.html">Udsalg <span class="cat-label cat-label-label2">%</span></a>
+</li>
+
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div>
+
+<script type="text/javascript">
+var SW_MENU_POPUP_WIDTH = 0;
+jQuery(function($){
+    $(document).ready(function(){
+        $('.main-nav .menu').et_menu({
+            type: "default",
+            delayTime: 0        });
+    });
+});
+</script>
